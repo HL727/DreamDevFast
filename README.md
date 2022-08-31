@@ -1,8 +1,8 @@
 <h3><b>About Me</b></h3>
 <hr />
 <p>
-  &nbsp;I'm a full stack web developer who have got deep experience of web design and development with Node.js. <br/>
-  Web site development is in my blood as I have been working as web developer for 9 years.
+  &nbsp;I'm a full stack web developer with vast experience of MERN, MEVN, MEAN stacks and blockchain. <br/>
+  Web site development is in my blood as I have been working as web developer for 6 years.
   Throughout all these precious years I have made myself enrich with a lot of web related skills.
   I believe in quality and confidence rather than quantity and more money earning policy.
   I like difficult tasks to prove my ability as a Full stack developer.
@@ -60,12 +60,12 @@
   </div>
 </div>
 <br/><br/>
-- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS <br/>
-- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign<br/>
+- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS, Rust, Solidity, Golang <br/>
+- 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, Angular, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign<br/>
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask<br/>
 - 🥇 <b>Top Skill</b> : Blockchain, Web 3D Animation, AR/VR, WebRTC, Machine Learning<br/>
 - 🛵 <b>Web Automation & Scraping</b> : Selenium, Headless, BeautifulSoup, Scrapy, Scraper API, OctoParse<br/>
 - 🛢 <b>Database</b> : MySQL, MongoDB, PostgreSQL, MariaDB, SQLite, Cloud Database<br/>
-- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman<br/>
+- ⚖ <b>Testing Tools</b> : Mocha, Jasmine, Postman, Jest, Pytest<br/>
 - 🌧 <b>Gloud Computing</b> : Google, AWS, Azure<br/>
 <br><br>
